@@ -24,6 +24,8 @@ If you want to get in touch with me in the future, I will maintain a Gmail accou
 
 Also, I very much hope that an errata will be started, once this tutorial becomes a circulation within the department (and if we choose to put this online) and this tutorial is updated and corrected for any errors.
 
+**Update**
+I wanted to give credit where it is most definitely due:  Thanks to all that helped in this learning process ...Gabe Leitao, Pablo Borges, James Shook, Luisa Scolfaro, Paul Erhart, Amanda Neukirch, Sergei Tretiak, and especially to my PhD advisor Alex Zakhidov.  If I forgot your name, I am sorry, but know that I am eternally grateful for your contribution to my learning.  
 
 ## TABLE OF CONTENTS
 Chapters:
